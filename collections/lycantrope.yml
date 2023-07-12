@@ -1,0 +1,291 @@
+nfts:
+- tokenId: 829a6114bce132a2ae2e6a0776047cca67262e0b0b32d123f9a2666ca0706259
+  name: Lycan An American Werewolf
+  description: "{\n   \"Token Description\":\"An American Werewolf\",\n\t\"Collection\":\"Lycan Trope\",\n   \"Tribe\":\"Prime Tribe 2022-2023\",\n   \"Token number in collection\":\"010\",\n\t\"Brother/Sister NFT\":\"An American Werewolf in Upsidedown London\",\n   \"Occasion\":\"Full Moon\",\n   \"Moon\":\"Wolf Moon\",\n   \"Month\":\"January\",\n   \"Year\":\"2023\",\n    \"Lycans shapeshifted\":\"2\",\n   \"Background\":\"A Wolf Moon is the ideal moment for a movie tribute! From the many werewolf movies out there An American Werewolf in London is one of the most reknowned. The werewolf itself is very well designed, and this is a tribute to that.\",\n   \"Artist Twitter\":\"@LycanNFT22\",\n   \"Mint Address\":\"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9\",\n   \"Mint Date\":\"01/20/2023\"\n}"
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihdxuicvw654pspmphww3d6ybifxq2k6ia74w4wonmrrzjiyxw5gu
+- tokenId: f70eb64be9b2af96450517012a6ba473b00052d91a3462c0b4c17a34e18764c5
+  name: Lycan An American Werewolf in Upsidedown London
+  description: "{\n   \"Token Description\":\"An American Werewolf in Upsidedown London\",\n   \"Collection\":\"Lycan Trope\",\n   \"Tribe\":\"Prime Tribe 2022-2023\",\n   \"Token number in collection\":\"009\",\n\t\"Brother/Sister NFT\":\"An American Werewolf\",\n   \"Occasion\":\"Full Moon\",\n   \"Moon\":\"Wolf Moon\",\n   \"Month\":\"January\",\n   \"Year\":\"2023\",\n    \"Lycans shapeshifted\":\"2\",\n   \"Background\":\"A Wolf Moon is the ideal moment for a movie tribute! From the many werewolf movies out there An American Werewolf in London is one of the most reknowned. Made in the 1980s what better link to the present that Stranger Things' upsidedown.\",\n   \"Artist Twitter\":\"@LycanNFT22\",\n   \"Mint Address\":\"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9\",\n   \"Mint Date\":\"01/20/2023\"\n}"
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihgjnhyzhvbk4rajwqparsmfambjnvcidjocjxniwzrtmzr37goay
+- tokenId: 5674bfa5c9c6c2ff3f5e0af8158fd2119ca66313f8e868e685a160ef47c60dcf
+  name: Lycan Blood Brother Abel
+  description: >-
+    During the November 2022 Blood moon two Lycans shapeshift. A rare breed of
+    Werebats. Abel is the most primal and untamed of the two.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeif6doaishwjpfgkwan7efhqsbmi2jywnugziiokvwpyzjvw5rttqy
+- tokenId: 2e1b25c5ca74b7e54aac80314af4ffb9b1c7fb6b8120ac07283ed10664db5f07
+  name: Lycan Blood Brother Eddie
+  description: >-
+    During the November 2022 Blood moon two Lycans shapeshift. A rare breed of
+    Werebats. Eddie, well he's the sofisticated one. At least that what his
+    friends tell him.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig3ps2fqdzjia3qwioivliyi7icohh42pmyxip2xzx5ft6v67kkvq
+- tokenId: 02b084007bb991f71dc87e78a3b07ecaeb4b99b21375eae8af95e0b418fcdb97
+  name: Lycan Ermine with the Pearl Earing
+  description: >-
+    {
+
+    "Token Description":"Ermine with the Pearl Earing",
+
+    "Collection":"Lycan trope",
+
+    "Tribe":"Prime Tribe 2022-2023",
+
+    "Token number in collection":"006",
+
+    "Sister NFT":"The Ice Queen",
+
+    "Animaltype":"Ermine",
+
+    "Occasion":"Full moon",
+
+    "Moon":"Cold Moon",
+
+    "Month":"December",
+
+    "Year":"2022",
+
+    "Lycans shapeshifted":"4",
+
+    "Background":"The Ermines are really the Belles to the Beasts, the Lycan
+    Polar Explorers Amundsen (Lycan 007) and Scott (Lycan 008). They needed to
+    be a sweet, and elegant, but strong antagonists to the Polar Explorers. The
+    Ermine withe Pearl Earings is just all out sweetness. Just like Vermeer's
+    'Girl with the Pearl Earing', she breaths calmness, although she doesn't
+    have to much selfawareness.",
+
+    "Artist Twitter":"@LycanNFT22",
+
+    "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+
+    "Mint Date":"07 December 2022"
+
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig6aavptylicpm526p2hivoazoetg2mkx3pmg4l4i7e5vrrxywi24
+- tokenId: aa1855c2bffec632e4e54073baa51d6e15c804ed18743d11553c66d564a14b03
+  name: Lycan Labs Alpha
+  description: |-
+    { 
+       "Collection":"Lycan Labs Logo",
+     "Version":"Alpha",
+       "Artist Twitter":"@LycanNFT22",
+       "Mint address":"9eXsnZzmkr99Kr8DxHjNFhVnjtHHYYZ25y6hEVw58DxSCXDaQVe",
+       "Mint Date":"27/03/2023"
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibepkliafwb756ng5vrpsa567p7dhdriujdh34g3ow2azt2r6rxgq
+- tokenId: cdd7a4553abb0346c92f2da3b4459d37ccaa0da8c3c52ef635ee0c307b37c12d
+  name: Lycan Little Red... Whaddafu!
+  description: >-
+    Little Red.... Whaddafu! by Lycan
+
+
+    Happy Halloween 2022!
+
+
+    If you ever wondered what really happened to Little Red Riding Hood, this is
+    your answer!
+
+
+    First Special event Lycan
+
+    Turn: 30 October 2022
+
+    Number: 1/1
+
+    Info: 1024x1024 - 72 dpi
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeifrj63eqchwbpvpqnhknfijq376qlqx5c7v65ogxsksn6gxkcmppq
+- tokenId: c37efdebb6fb678e811cdb43c74d1c6d900766492181da137d1f75934bf3cacb
+  name: Lycan Polar Explorer R.E.G. Amundsen
+  description: >-
+    {
+
+    "Token Description":"R.E.G. Amundsen",
+
+    "Collection":"Lycan trope",
+
+    "Tribe":"Prime Tribe 2022-2023",
+
+    "Token number in collection":"007",
+
+    "Sister NFT":"R.F. Scott",
+
+    "Animaltype":"Polar Bear",
+
+    "Occasion":"Full moon",
+
+    "Moon":"Cold Moon",
+
+    "Month":"December",
+
+    "Year":"2022",
+
+    "Lycans shapeshifted":"4",
+
+    "Background":"The Polar explorers are really the Beasts to the Belles, the
+    Lycan Ermines the Ice Queen (Lycan 005) and the Ermine with the Pearl Earing
+    (Lycan 006). They have what it takes to endure the harsh conditions of the
+    polar winters. The Norwegian Roald Engelbregt Gravning Amundsen was led a
+    party who set out to be the first to reach the South Pole in the year 1912.
+    They succeeded and returned safely to base. His rivals, Scott's party of
+    explorers, weren't that lucky. Amundsen disappeared in 1928 and has been
+    missing ever since. ",
+
+    "Artist Twitter":"@LycanNFT22",
+
+    "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+
+    "Mint Date":"07 December 2022"
+
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicp2ifvihi7vyjh7t6vztbjoqxyju5c5guyzuumgfmor2rw2okjzm
+- tokenId: 5145b4ebd8756c0cd07cee9ce8eb789b3aa55a07afe3d783ee0a2e01dbe1cbf5
+  name: Lycan Polar Explorer R.F. Scott
+  description: >-
+    {
+
+    "Token Description":"Polar Explorer R.F. Scott",
+
+    "Collection":"Lycan trope",
+
+    "Tribe":"Prime Tribe 2022-2023",
+
+    "Token number in collection":"008",
+
+    "Sister NFT":"R.E.G. Amundsen",
+
+    "Animaltype":"Polar bear",
+
+    "Occasion":"Full moon",
+
+    "Moon":"Cold Moon",
+
+    "Month":"December",
+
+    "Year":"2022",
+
+    "Lycans shapeshifted":"4",
+
+    "Background":"The Polar explorers are really the Beasts to the Belles, the
+    Ice Queen (Lycan 005) and the Ermine with the Pearl Earing (Lycan 006). They
+    have what it takes to endure the harsh conditions of the polar winters. The
+    Britisch Royal Navy officer Robert Falcon Scott led the party who set out to
+    be the first to reach the South Pole. In the year 1912, they arrived there
+    only to discover Amundsen's party had beaten them to it by a month. They
+    never made it back and were found dead by a search party later that year.",
+
+    "Artist Twitter":"@LycanNFT22",
+
+    "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+
+    "Mint Date":"07 December 2022"
+
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidy33dqviaflbz5653vvyzz4gzefga7oxibyq6d3h2srrswylhkzi
+- tokenId: 4dbac663abb58413bc0b1c23cf7e3c655f0cc8ddd283c111be73ca55a8d90ad3
+  name: Lycan Prime
+  description: First of the Lycan tribe. Turned the lunar cycle of October 2022.
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiabzooe2iy7tx7ntmeihcc4wautwkjbj3h3wvhxme26747bumu36e
+- tokenId: 75b7ebd6a20cacc87a0c9ee3307126cf1f60348123f5941c9288216738ecc92d
+  name: Lycan The Elusive One
+  description: "{\n   \"Token Description\":\"The Elusive One\",\n   \"Collection\":\"Lycan Trope\",\n   \"Tribe\":\"Prime Tribe 2022-2023\",\n   \"Token number in collection\":\"011\",\n\t\"Brother/Sister NFT\":\"None\",\n   \"Occasion\":\"Full Moon\",\n   \"Moon\":\"Snow Moon\",\n   \"Month\":\"March\",\n   \"Year\":\"2023\",\n    \"Lycans shapeshifted\":\"1\",\n   \"Background\":\"As one of the most elusive creatures on the planet, it is treat to see this lycan as all. They enjoy the serenity and peacefulness of the snow scapes they roam.\",\n   \"Artist Twitter\":\"@LycanNFT22\",\n   \"Mint Address\":\"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9\",\n   \"Mint Date\":\"02/09/2023\"\n}"
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia2pmmnae4mkpo3gkj6p566svrkbu5oxc533j3722dpe2uvsqa2mu
+- tokenId: c2eb13382d51a0c243208eb5ae985f49d4b17d1b84bc326d8f0c51e1d17dbfcd
+  name: Lycan The Ice Queen
+  description: >-
+    {
+
+    "Token Description":"The Ice Queen",
+
+    "Collection":"Lycan trope",
+
+    "Tribe":"Prime Tribe 2022-2023",
+
+    "Token number in collection":"005",
+
+    "Sister NFT":"Ermine with the Pearl Earing",
+
+    "Animaltype":"Ermine",
+
+    "Occasion":"Full moon",
+
+    "Moon":"Cold Moon",
+
+    "Month":"December",
+
+    "Year":"2022",
+
+    "Lycans shapeshifted":"4",
+
+    "Background":"The Ermines are really the Belles to the Beasts, the Lycan
+    Polar Explorers Amundsen (Lycan 007) and Scott (Lycan 008). They needed to
+    be a sweet, and elegant, but strong antagonists to the Polar Explorers. The
+    Ice Queen is steadfast and strongheaded. As a queen, she is 'above the
+    crowd' in attitude and attire. Her dress code was inspired by ceremonial
+    Inuit clothing.",
+
+    "Artist Twitter":"@LycanNFT22",
+
+    "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+
+    "Mint Date":"07 December 2022"
+
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig4rxinlqshcqzzh5e2wnedhh5wjqzl5tqq5ujdbug2zdmcpnlsl4
+- tokenId: f76dbb70d31650f2e84407cf8280599dc03994a1fdaef923a6ed96b4ea6581f4
+  name: Lycan Trope
+  description: >-
+    Every now and again new Lycans shapeshift and join the ranks of the Tribe.
+    Each Lycan is unique, in shape, detail or color and is handdrawn and
+    coloured. Lycans come in all shape and sizes, and the project explores the
+    boundaries between being human and being animal. 
+
+
+    Welcome to the Lycans.
+- tokenId: d56814423e979f8edb258f817f80f50edf032527e4e1cfa0128b48f530cb0fd0
+  name: Lycans of the Apocalypse - Pestilence
+  description: |-
+    {
+       "Token Description":"Lycans of the Apocalypse - Pestilence",
+       "Collection":"Lycan Trope",
+       "Tribe":"Prime Tribe 2022-2023",
+       "Token number in collection":"012",
+       "Year":"2023",
+        "Lycans shapeshifted":"1",
+       "Background":"Then I saw when the Lamb broke one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, Come. I looked, and behold, a white horse, and he who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer. (Rev 16: 1-2)",
+       "Artist Twitter":"@LycanNFT22",
+       "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+       "Mint Date":"11 May 2023",
+       "Note":"1 of a series of 4."
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicnfhsnk4psla6wdbivh47evn5ua6d5j5z4rfgepjju7pgzyayate
+- tokenId: c70bea8c84f130d799acb91e25d5c00953c9e328f68c7d7eaa74338bc2fc0880
+  name: Lycans of the Apocalypse - Pestilence
+  description: |-
+    {
+       "Token Description":"Lycans of the Apocalypse - Pestilence",
+       "Collection":"Lycan Trope",
+       "Tribe":"Prime Tribe 2022-2023",
+       "Token number in collection":"012",
+       "Year":"2023",
+        "Lycans shapeshifted":"1",
+       "Background":"Then I saw when the Lamb broke one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, Come. I looked, and behold, a white horse, and he who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer. (Rev 16 1-2)",
+       "Artist Twitter":"@LycanNFT22",
+       "Mint Address":"9gmNrBJ3RXn3nGSas1mbBwGh5W7BJ7t7SaYiXAFEqPaefESSgD9",
+       "Mint Date":"11 May 2023",
+       "Note":"1 of a series of 4"
+    }
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicnfhsnk4psla6wdbivh47evn5ua6d5j5z4rfgepjju7pgzyayate
