@@ -1,5 +1,7 @@
 collections:
 - label: Lycan Trope
   data: lycantrope.yml
+  image: https://ipfs.io/ipfs/bafybeicp2ifvihi7vyjh7t6vztbjoqxyju5c5guyzuumgfmor2rw2okjzm
 - label: Lycan Labs
   data: lycanlabs.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeifu7dh34dfeiz4zcwl3iezu7bin3xuf4mkimphdjgimcojxbookmi
