@@ -1,3 +1,5 @@
 collections:
 - label: Lycan Trope
   data: lycantrope.yml
+- label: Lycan Labs
+  data: lycanlabs.yml
