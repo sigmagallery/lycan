@@ -67,18 +67,6 @@ nfts:
     }
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeig6aavptylicpm526p2hivoazoetg2mkx3pmg4l4i7e5vrrxywi24
-- tokenId: aa1855c2bffec632e4e54073baa51d6e15c804ed18743d11553c66d564a14b03
-  name: Lycan Labs Alpha
-  description: |-
-    { 
-       "Collection":"Lycan Labs Logo",
-     "Version":"Alpha",
-       "Artist Twitter":"@LycanNFT22",
-       "Mint address":"9eXsnZzmkr99Kr8DxHjNFhVnjtHHYYZ25y6hEVw58DxSCXDaQVe",
-       "Mint Date":"27/03/2023"
-    }
-  imageUrl: >-
-    https://gateway.ipfs.io/ipfs/bafybeibepkliafwb756ng5vrpsa567p7dhdriujdh34g3ow2azt2r6rxgq
 - tokenId: cdd7a4553abb0346c92f2da3b4459d37ccaa0da8c3c52ef635ee0c307b37c12d
   name: Lycan Little Red... Whaddafu!
   description: >-
